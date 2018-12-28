@@ -4,8 +4,10 @@ export default class Welcome extends Component {
   render() {
     return (
       <div>
-      	welcome i gues
-        
+      	<h1>welcome section</h1>
+        <p>
+        	
+        </p>
       </div>
     );
   }
